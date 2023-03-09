@@ -1,7 +1,7 @@
-<div align="center"> <h1>Genesis</h1> </div>
+<div align="center"> <h1>Génesis</h1> </div>
 <div align="center"> <em>"Dedicados a brindar soluciones innovadoras. Priorizamos la construcción de relaciones duraderas y significativas con nuestros clientes."</em></div>
 
-<div> <h2>Historia de Genesis</h2> </div>
+<div> <h2>Historia de Génesis</h2> </div>
 <div> Génesis surge de la necesidad de crear soluciones de software de la más alta calidad. Nos esforzamos continuamente por mantener un equipo altamente capacitado y motivado. </div>
 
 <div> <h2>¿Quiénes somos?</h2> </div>
